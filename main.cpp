@@ -5,9 +5,12 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: <Add name of student 1 Here> -- to be added by student 1
+
+    TODO: <David Olorunpoju-Essang> -- to be added by student 1
+
+
     TODO: <jackngog> -- to be added by student 2
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
+
  */
 #include <iostream>
 using namespace std;
