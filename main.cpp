@@ -6,10 +6,13 @@
 
     Edits made by:
 
-    TODO: <David Olorunpoju-Essang> -- to be added by student 1
+     <David Olorunpoju-Essang> -- to be added by student 1
 
 
-    TODO: <jackngog> -- to be added by student 2
+     <jackngog> -- to be added by student 2
+
+     <Janee Amig > -- to be added by student 3
+
 
  */
 #include <iostream>
@@ -25,10 +28,10 @@ int main() {
     cin >> ducknum;
 
     for (int i = 0; i < ducknum; i++) { 
-        cout << "                __     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
+        cout << "                __     " << endl; // student 1 may change this line and may add additional lines immediately above
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "                `----' " << endl; // student 2 may change this line and may add lines below
         
     }
 
