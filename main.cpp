@@ -11,6 +11,9 @@
 
     TODO: <jackngog> -- to be added by student 2
 
+    TODO: <Janee Amig > -- to be added by student 3
+
+
  */
 #include <iostream>
 using namespace std;
